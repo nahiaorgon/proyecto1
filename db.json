@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Nahia",
+      "empresa": "No",
+      "email": "nahia_orgon@outlook.com",
+      "telefono": "03794534138",
+      "notas": "hola como estas",
+      "id": 2
+    }
+  ]
+}
