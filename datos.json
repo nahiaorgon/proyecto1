@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Manzana",
+      "category": "Bret",
+      "stocked": true,
+      "price": "$1"
+    },
+    {
+      "id": 2,
+      "name": "Maracuya",
+      "category": "Antonette",
+      "stocked": true,
+      "price": "$1"
+    },
+    {
+      "id": 3,
+      "name": "Melon",
+      "category": "Samantha",
+      "stocked": false,
+      "price": "$2"
+    },
+    {
+      "id": 4,
+      "name": "Espinaca",
+      "category": "Karianne",
+      "stocked": true,
+      "price": "$3" 
+    },
+    {
+      "id": 5,
+      "name": "Lechuga",
+      "category": "Kamren",
+      "stocked": false,
+      "price": "$2" 
+    },{
+      "id": 4,
+      "name": "Espinaca",
+      "category": "Karianne",
+      "stocked": true,
+      "price":"$2"  
+    }
+  ]
